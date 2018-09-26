@@ -1,0 +1,7 @@
+{
+  "name": "nearby",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

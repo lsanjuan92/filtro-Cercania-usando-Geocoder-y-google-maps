@@ -1,0 +1,32 @@
+{
+    "locations": [
+ 
+        {
+            "title": "alicante",
+            "latitude": 2.460157,
+            "longitude": -76.586276
+        },
+        {
+            "title": "pomona",
+            "latitude": 2.450727,
+            "longitude": -76.592325
+        },
+        {
+            "title": "Asturias",
+            "latitude": 2.483376,
+            "longitude": -76.576341
+        },
+        {
+            "title": "Villa docente",
+            "latitude": 2.456563,
+            "longitude": -76.588302
+        },
+        {
+            "title": "Sombrilla",
+            "latitude": 2.451567,
+            "longitude": -76.627040
+        }
+        
+        
+    ]
+}
